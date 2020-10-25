@@ -2,6 +2,8 @@
 
 A simulation system processing 10000 tasks with 3 identical processors that process randomly generated tasks.
 
+"simulation_data.py" randomly generates a simulation data, according to certain criterias. A simulation dataset contains 10000 tasks. The code stores the dataset in sqlite3.
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -23,13 +25,12 @@ console: <strong>** SYSTEM INITIALISED ** </strong>
 	
 At each step of the simulation, the simulation clock is updated to the next significant event, e.g., assigned ID, Arrival/task taken for processing, Duration/task completion time.
 
+In the rare eventuality of multiple tasks arriving at the same time, the processing order is indifferent and the tasks are processed one at the time. ```PUTS THE TASK ON HOLD - QUEUE UNTIL ....```
 
 Features:
 This system acquires tasks from the database and stores them in a queue which was built with linked list.
 
 The system checks on the task IDs is carried out using Regular Expressions.
-
-"simulation_data.py" randomly generates a simulation data, according to certain criterias. A simulation dataset contains 10000 tasks. The code stores the dataset in sqlite3.
 
 ## Technologies
 
