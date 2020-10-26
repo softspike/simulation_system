@@ -4,12 +4,13 @@ The system is comprised of a clock and three identical processors.
 
 "simulation_data.py" randomly generates a simulation data, according to certain criterias. A simulation dataset contains 100 tasks. The code stores the dataset in sqlite3.
 
-<img src="https://user-images.githubusercontent.com/47834415/97116447-0fa1e980-16f5-11eb-9d30-63b93f9e83ec.png" alt="sql" width="325" height="325"/>
+<img src="https://user-images.githubusercontent.com/47834415/97116447-0fa1e980-16f5-11eb-9d30-63b93f9e83ec.png" alt="sql" width="325" height="225"/>
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Shell_view](#Shell_view)
 
 ## General info
 
@@ -66,78 +67,24 @@ Project is created with:
 
 ## Setup 
 
-1.Open terminal shell, select simulation_system folder.
+1. Open terminal shell, select simulation_system folder.
 
-2.Run "simulation_data.py" first to generate a dataset that contains 100 tasks, (test2.db is created).
+2. Run "simulation_data.py" first to generate a dataset that contains 100 tasks, (test2.db is created).
 
-3.Run "simulation.py" to process the tasks.
+3. Run "simulation.py" to process the tasks.
 
+<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="25" height="25"/>
 
-### static_website
-Coursework Static & Responsive University Website Prototype (wireframe provided). Built on: HTML & CSS 
+## Shell view
 
-<h3>Includes title page:</h3>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-
-<img class="uni" src="../style/pictures/7615945272_d16746ea81_o.jpg" alt="Image of University">
-PontyBridge University - Homepage Design (desktop).pdf
-
-A good README is for others to understand what our code includes, and why it's noteworthy
-
-Make sure the file always includes the following elements:
-
-Titles and internal titles
-Introduction - the project's aim
-Technologies
-Launch
-
-
-
-
-
-
-
-	
-
+<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="25" height="25"/>
 
 ## Code Examples
-To generate lorem ipsum use special shortcode: `put-your-code-here`
+
+distribution of parameter 1, rounded up.
+
+To generate lorem ipsum use special shortcode: `code`
 
 which will be displayed as:
 
 <p>Examples of use In case of reusable code or your own library, providing a manual how to use our project might be necessary. It can work as a fragment of code: </p>
-
-#########################
-# STATIC-WEBISTE-ACCORDING-TO-WIRE-FRAME
-Simple HTML5/CSS Static & Responsive 3 Webpages done according to <b>Designer's Wire Frame</b>
-
-# Example
-
-<img src="https://i.imgur.com/TlpBLnG.png" alt="Home page view Desktop" width="300" heigh="300"/>
-
-<img src="https://i.imgur.com/iQmTSbm.png" alt="Home page view Desktop" width="400" heigh="100"/>
-
-<img src="https://i.imgur.com/KBj5R4Y.png" alt="Home page view Desktop" width="300" heigh="300"/>
-
-
-
-
-# Loading pages
-Run the web pages in the development mode, inside folder STATIC-WEBISTE-ACCORDING-TO-WIRE-FRAME i.e.:
-
-command line:
-
-`python -m SimpleHTTPServer`
-
-check if the app is running on `http://0.0.0.0:8000/`
-
-
-
-
-
-
-
-
-
