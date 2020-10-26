@@ -42,20 +42,12 @@ console: <strong>** SYSTEM INITIALISED ** </strong>
 	
 At each step of the simulation, the simulation clock is updated to the next significant event, e.g., assigned ID, Arrival/task taken for processing, Duration/task completion time.
 
+<img src="https://user-images.githubusercontent.com/47834415/97199763-497ff800-17a8-11eb-98f2-368bee0b55ae.png" alt="terminal" width="450" height="450"/>
+
 In the rare eventuality of multiple tasks arriving at the same time and all of the processors are busy. The processing order is indifferent and the tasks are processed one at the time, ``the message displayed ** Task [TASK ID] on hold``
 
-
-``** [CLOCK] : Task [TASK ID] completed.``
-
-Finally, when all the tasks have been processed and completed, the sim- ulation ends and the following message is displayed:
+Finally, when all the tasks have been processed and completed, the simulation ends and the following message is displayed:
 ``** [CLOCK] : SIMULATION COMPLETED. **``
-
-EXAMPLE........
-
-Features:
-This system acquires tasks from the database and stores them in a queue which was built with linked list.
-
-The system checks on the task IDs is carried out using Regular Expressions.
 
 ## Technologies
 
