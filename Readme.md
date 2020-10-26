@@ -83,4 +83,4 @@ Terminal shell:
 
 SQL viewer:
 
-<img src="https://user-images.githubusercontent.com/47834415/97183094-40396000-1795-11eb-83ff-98c2eab9c369.png" alt="sql" width="450" height="450"/>
+<img src="https://user-images.githubusercontent.com/47834415/97183094-40396000-1795-11eb-83ff-98c2eab9c369.png" alt="sql" width="350" height="250"/>
