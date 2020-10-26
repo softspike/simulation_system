@@ -73,7 +73,7 @@ Project is created with:
 
 	To run "simulation_data.py". Terminal shell syntax: 
 
-	Optional: <link>http://inloop.github.io/sqlite-viewer/</link> to check if data has been generated to (test2.db) - drag the file to the SQL viewer
+	Optional: SQL viewer <link>http://inloop.github.io/sqlite-viewer/</link> to check if data has been generated to (test2.db)
 
 3. Run "simulation.py" to process the tasks.
 
@@ -81,7 +81,7 @@ Project is created with:
 
 ## Design
 
-<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="325" height="325"/>
+<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="450" height="450"/>
 
 ## Code Examples
 
