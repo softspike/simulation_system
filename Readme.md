@@ -4,7 +4,7 @@ The system is comprised of a clock and three identical processors.
 
 "simulation_data.py" randomly generates a simulation data, according to certain criterias. A simulation dataset contains 100 tasks. The code stores the dataset in sqlite3.
 
-<img src="https://user-images.githubusercontent.com/47834415/97116447-0fa1e980-16f5-11eb-9d30-63b93f9e83ec.png" alt="sql" width="325" height="225"/>
+<img src="https://user-images.githubusercontent.com/47834415/97116447-0fa1e980-16f5-11eb-9d30-63b93f9e83ec.png" alt="sql" width="225" height="175"/>
 
 ## Table of contents
 * [General info](#general-info)
@@ -71,24 +71,12 @@ Project is created with:
 
 2. Run "simulation_data.py" first to generate a dataset that contains 100 tasks, (test2.db is created).
 
-	To run "simulation_data.py". Terminal shell syntax: 
-
+	To run "simulation_data.py". Terminal shell syntax: python3 simulation_data.py
+	
 	Optional: SQL viewer <link>http://inloop.github.io/sqlite-viewer/</link> to check if data has been generated to (test2.db)
 
 3. Run "simulation.py" to process the tasks.
 
-<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="25" height="25"/>
-
 ## Design
 
 <img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="450" height="450"/>
-
-## Code Examples
-
-distribution of parameter 1, rounded up.
-
-To generate lorem ipsum use special shortcode: `code`
-
-which will be displayed as:
-
-<p>Examples of use In case of reusable code or your own library, providing a manual how to use our project might be necessary. It can work as a fragment of code: </p>
