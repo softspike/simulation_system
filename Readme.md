@@ -81,6 +81,6 @@ Terminal shell:
 
 <img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="450" height="450"/>
 
-SQL viewer (click to enlarge the screenshot):
+SQL viewer (click to enlarge):
 
 <img src="https://user-images.githubusercontent.com/47834415/97183330-8db5cd00-1795-11eb-914f-d1bba6f59776.png" alt="sql" width="250" height="175"/>
