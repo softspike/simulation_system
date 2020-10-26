@@ -71,9 +71,9 @@ Project is created with:
 
 2. Run "simulation_data.py" first to generate a dataset that contains 100 tasks, (test2.db is created).
 
-	To run "simulation_data.py". Syntax: 
+	To run "simulation_data.py". Terminal shell syntax: 
 
-	Optional: <link>http://inloop.github.io/sqlite-viewer/</link> to check if test2.db generated data
+	Optional: <link>http://inloop.github.io/sqlite-viewer/</link> to check if data has been generated to (test2.db) - drag the file to the SQL viewer
 
 3. Run "simulation.py" to process the tasks.
 
@@ -81,7 +81,7 @@ Project is created with:
 
 ## Design
 
-<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="25" height="25"/>
+<img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="325" height="325"/>
 
 ## Code Examples
 
