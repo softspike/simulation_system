@@ -2,9 +2,7 @@
 
 The system is comprised of a clock and three identical processors.
 
-Processors processing randomly generated tasks 10000...... uzbaikt sakini
-
-"simulation_data.py" randomly generates a simulation data, according to certain criterias. A simulation dataset contains 10000 tasks. The code stores the dataset in sqlite3.
+"simulation_data.py" randomly generates a simulation data, according to certain criterias. A simulation dataset contains 100 tasks. The code stores the dataset in sqlite3.
 
 <img src="https://user-images.githubusercontent.com/47834415/97116447-0fa1e980-16f5-11eb-9d30-63b93f9e83ec.png" alt="sql" width="325" height="325"/>
 
@@ -66,21 +64,14 @@ Project is created with:
 * Python
 * Sqlite 3
 
-## Setup
+## Setup 
 
-Setup & Installation (run in terminal shell)
-1.Run "simulation_data.py" first to generate a dataset that contains 10000 tasks, (test2.db is created).
+1.Open terminal shell, select simulation_system folder.
 
-2.Run "simulation.py" to process the tasks.
+2.Run "simulation_data.py" first to generate a dataset that contains 100 tasks, (test2.db is created).
 
+3.Run "simulation.py" to process the tasks.
 
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 
 ### static_website
 Coursework Static & Responsive University Website Prototype (wireframe provided). Built on: HTML & CSS 
