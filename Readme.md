@@ -10,7 +10,7 @@ The system is comprised of a clock and three identical processors.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Shell_view](#Shell_view)
+* [Design](#design)
 
 ## General info
 
@@ -75,7 +75,7 @@ Project is created with:
 
 <img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="25" height="25"/>
 
-## Shell view
+## Design
 
 <img src="https://user-images.githubusercontent.com/47834415/97178305-34e33600-178f-11eb-9e46-5f398346c9cd.png" alt="terminal" width="25" height="25"/>
 
